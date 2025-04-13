@@ -1,4 +1,4 @@
-# Hotel-Booking-system
+# Hotel-Management-system
 The Hotel Booking Website is a simple and responsive web application designed using HTML5, CSS3, and JavaScript. It simulates a basic hotel booking system where users can explore rooms, check availability, and make a reservation
 
 Features:
